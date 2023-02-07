@@ -1,8 +1,7 @@
 
-User story: User can type location and see relevant forecast
-User story: User can reach next day's weather
-User story: User can see today's highlights
-User story: User can see forecast based on selected TimeZone
+User story: User can refresh feed to see random cat fact
+User story: User can see total refresh count
+
 
 
 Node Modules folder is ignored. Yarn command is needed.
